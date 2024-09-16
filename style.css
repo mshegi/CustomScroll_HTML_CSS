@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	padding: 0;	
+	background: #D93030;
+	font-family: sans-serif;
+}
+
+h2 {
+	margin-bottom: 0px;
+}
+
+p {
+	margin-top: 0px;
+}
+
+.card {
+	background: #EBE6E6;
+	margin: 20px;
+	padding: 1px 10px;
+	line-height: 1.6;
+	width: 320px;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+	background: black;
+}
+
+::-webkit-scrollbar-thumb {
+	background: linear-gradient(to top, #8985E4, #A78A8A);
+	border-radius: 3px;
+}
